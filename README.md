@@ -59,7 +59,7 @@ For best performance, ensure your camera is facing you with good lighting.
 Adjust your camera resolution or hand detection confidence if needed.
 
 👨‍💻 Author
-Ch Atul Kumar Prusty
+Ashutosh Kumar Ranjan
 
 
 ---
