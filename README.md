@@ -38,7 +38,7 @@ project-folder/ │ ├── Resources/ │ ├── Background.png │ ├─
 
 ### 1. Clone the Repository
 
-git clone https://github.com/ChAtulKumarPrusty/Ping-Pong-Game.git
+git clone https://github.com/AshutoshKumar18/Ping-Pong-Game.git
 cd hand-gesture-ping-pong
 
 2. Install Dependencies
