@@ -58,9 +58,6 @@ Press r to restart the game after "Game Over".
 For best performance, ensure your camera is facing you with good lighting.
 Adjust your camera resolution or hand detection confidence if needed.
 
-👨‍💻 Author
-Ashutosh Kumar Ranjan
-
 
 ---
 
